@@ -1,0 +1,15 @@
+body { 
+    font-size: 36px;
+}
+section#main {
+    margin: 5% 10%;
+    padding: 10px 10px;
+    background: rgba(255, 255, 255, 0.8);
+}
+section#main {
+    text-align: center;
+    font-size: 1.5em;
+}
+footer {
+    min-height: 5%;
+}
